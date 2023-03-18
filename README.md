@@ -1,4 +1,4 @@
-# WebScrapping-VideoGamesFilterer
+# WebScrapping and DataCleaning: IMDb_Videogame_Webscrapper
 
 I use python web scrapping on IMDb's collection of videogames to collect data about Thousands of games. The user will be able to filter through the games to find 
 the perfect videogame for them, by filtering through details such as actors in game, the maturity rating of the game, the release date, and the genre.
